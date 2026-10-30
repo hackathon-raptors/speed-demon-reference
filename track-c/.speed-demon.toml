@@ -1,4 +1,5 @@
+# Read by the board and the scoring harness.
 track = "c"
-team = "csvsurgeon"
-language = "Rust"
+team = "your team name"
+language = "Python"
 dependency_count = 0

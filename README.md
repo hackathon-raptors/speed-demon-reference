@@ -1,5 +1,5 @@
-# sd-board-test
+# Speed Demon 2026 reference
 
-Organiser smoke test for the Speed Demon live board. Not an entry.
+The naive Python reference from the [starter template](https://github.com/hackathon-raptors/speed-demon-starter), entered on the live board as the baseline. It scores K = 1, about 0 points: every team is measured against it.
 
-Language detection check, Oct 30.
+Not an entry. Not eligible for prizes.
