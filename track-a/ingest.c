@@ -240,3 +240,4 @@ int main(int argc, char **argv) {
     if (close(ofd) < 0) die("close");
     return 0;
 }
+// lang check
